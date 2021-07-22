@@ -1,0 +1,2 @@
+# wslgBox-src
+Resource files
